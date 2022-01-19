@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  text-transform: capitalize;
+}
+body {
+  background-color: rgb(245, 237, 225);
+  font-family: "Arial Narrow Bold", sans-serif;
+}
+.form-label {
+  font-weight: bold;
+}
+.form-control {
+  font-family:' -apple-system', sans-serif;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
